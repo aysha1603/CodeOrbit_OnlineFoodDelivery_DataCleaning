@@ -106,4 +106,4 @@ The cleaned dataset can be used for:
 
 **CodeOrbit Data Analyst Internship – Task 1: Data Cleaning**
 
-**Status: Completed ✅**
+**Status: Completed**
